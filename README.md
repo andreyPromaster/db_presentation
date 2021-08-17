@@ -74,10 +74,13 @@ CREATE INDEX test2_mm_idx ON test2 (major, minor);
 
 
 ![image](https://user-images.githubusercontent.com/55237200/129629671-1546a688-446a-4f47-85ca-f81896bfe5e6.png)
+***
+# Сравнение MySQL и PostgreSQL
 
 ***
 ## Полезные ссылки
 [Как устроены базы данных](https://habr.com/ru/company/oleg-bunin/blog/358984/)
+
 [Что такое изоляция и почему это важно](https://habr.com/ru/company/postgrespro/blog/442804/)
 
 
